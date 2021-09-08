@@ -1,2 +1,2 @@
 # NLDHA_algorithm
-a algorithm to extract harmonic signals from gravity signal
+A algorithm to extract harmonic signals from gravity signal
